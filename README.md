@@ -48,6 +48,6 @@ ASHT-KD is a multi-teacher knowledge distillation framework designed for robust 
 python main.py --mode train --data_dir /path/to/dataset --epochs 10 --batch_size 16
 ```
 ### Evaluation
-
+```bash
 python main.py --mode evaluate --data_dir /path/to/test/data --checkpoint /path/to/model/checkpoint
 ```
