@@ -2,6 +2,8 @@
 
 This repository implements the **ASHT-KD** framework for **Visual Place Recognition (VPR)** based on the paper *"Feature-Level Knowledge Distillation for Place Recognition based on Soft-Hard Labels Teaching Paradigm"*.
 
+![alt text](framework.png)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
