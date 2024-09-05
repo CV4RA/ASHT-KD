@@ -4,6 +4,7 @@ This repository implements the **ASHT-KD** framework for **Visual Place Recognit
 
 ![alt text](framework.png)
 
+![alt text](results.jpg)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
