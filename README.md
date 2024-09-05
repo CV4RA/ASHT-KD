@@ -29,7 +29,7 @@ ASHT-KD is a multi-teacher knowledge distillation framework designed for robust 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ASHT-KD.git
+    git clone https://github.com/CV4RA/ASHT-KD.git
     cd ASHT-KD
     ```
 
@@ -48,5 +48,6 @@ ASHT-KD is a multi-teacher knowledge distillation framework designed for robust 
 python main.py --mode train --data_dir /path/to/dataset --epochs 10 --batch_size 16
 ```
 ### Evaluation
+
 python main.py --mode evaluate --data_dir /path/to/test/data --checkpoint /path/to/model/checkpoint
 ```
