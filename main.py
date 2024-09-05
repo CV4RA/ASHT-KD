@@ -1,4 +1,4 @@
-import argparse
+from argparse_config import get_args
 from train import train
 from evaluate import evaluate
 
