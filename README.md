@@ -12,28 +12,10 @@ This repository implements the **ASHT-KD** framework for **Visual Place Recognit
 - [Usage](#usage)
   - [Training](#training)
   - [Evaluation](#evaluation)
-- [Project Structure](#project-structure)
-- [References](#references)
 
 ## Introduction
 ASHT-KD is a multi-teacher knowledge distillation framework designed for robust all-day visual place recognition tasks. It incorporates soft and hard label teaching strategies to transfer knowledge from multiple teacher models to a lightweight student model, enabling efficient place recognition under various environmental conditions.
-
-## Project Structure
-
-|-- project_root/
-    |-- models/
-        |-- teacher_model.py          
-        |-- multi_teacher_model.py    
-        |-- lightweight_student_model.py 
-    |-- utils/
-        |-- dataset.py                
-        |-- loss.py                   
-    |-- train.py                      
-    |-- evaluate.py                   
-    |-- main.py                       
-    |-- README.md                     
-    |-- requirements.txt              
-
+     
 ### Key Features:
 - **Multi-teacher knowledge distillation**: Combines knowledge from multiple teacher models to improve the generalization of the student model.
 - **Lightweight student model**: A compact model designed for mobile robots to enable real-time performance with minimal computational cost.
