@@ -39,7 +39,7 @@ ASHT-KD is a multi-teacher knowledge distillation framework designed for robust 
     pip install -r requirements.txt
     ```
 
-3. Ensure you have the necessary dataset (e.g., [KITTI](https://www.cvlibs.net/datasets/kitti/), [Tokyo 24/7](http://www.ok.ctrl.titech.ac.jp/~torii/project/247/), VPRICE, Nordland) available for training and evaluation.
+3. Ensure you have the necessary dataset (e.g., [KITTI](https://www.cvlibs.net/datasets/kitti/), [Tokyo 24/7](http://www.ok.ctrl.titech.ac.jp/~torii/project/247/), [VPRICE](), [Nordland](https://nrkbeta.no/2013/01/15/nordlandsbanen-minute-by-minute-season-by-season/)) available for training and evaluation.
 
 ## Usage
 
